@@ -8,8 +8,8 @@ It includes jupyter notebook files for code and resutls (csv_submission).
 
 Example: Task12_hgb_submission.csv
 
-Task1 Task1-2 is for Task 1 from ThinkPrompt.
+Task1.ipynb & Task1-2.ipynb are for Task 1 from ThinkPrompt.
 
-Task2 is for Task 2 from ThinkPrompt.
+Task2.ipynb is for Task 2 from ThinkPrompt.
 
-Task3 is for Task 3 from ThinkPrompt.
+Task3.ipynb is for Task 3 from ThinkPrompt.
