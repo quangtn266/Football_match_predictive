@@ -1,0 +1,281 @@
+,id,home_team_name,away_team_name,league_name,match_date
+0,11984636,Alajuelense,Herediano,Primera Division,2019-12-08 21:00:00
+1,11986088,Alajuelense,Herediano,Primera Division,2019-12-22 00:00:00
+2,11997082,Alajuelense,Herediano,Primera Division,2020-01-19 22:00:00
+3,14609449,Alajuelense,Herediano,Primera Division,2020-06-15 01:00:00
+4,16904501,Alajuelense,Herediano,Primera Division,2020-09-27 02:00:00
+5,11872479,Beitar Tel Aviv Ramla,Hapoel Ramat Gan,Liga Leumit,2020-02-21 13:00:00
+6,14050776,Beitar Tel Aviv Ramla,Hapoel Ramat Gan,Liga Leumit,2020-06-18 17:00:00
+7,16622919,Beitar Tel Aviv Ramla,Hapoel Ramat Gan,Club Friendlies,2020-07-24 06:20:00
+8,16899553,Beitar Tel Aviv Ramla,Hapoel Ramat Gan,Liga Leumit,2021-03-05 13:00:00
+9,17879204,Beitar Tel Aviv Ramla,Hapoel Ramat Gan,State Cup,2021-03-15 18:00:00
+10,11998226,Maribor,Bravo,Club Friendlies,2020-01-21 14:00:00
+11,11880178,Maribor,Bravo,1. SNL,2020-03-07 16:15:00
+12,12723066,Maribor,Bravo,Club Friendlies,2020-05-30 16:00:00
+13,16832339,Maribor,Bravo,1. SNL,2020-09-12 16:00:00
+14,16832429,Maribor,Bravo,1. SNL,2021-02-13 16:15:00
+15,11892166,AEK Larnaca,AEL,1. Division,2020-01-25 15:00:00
+16,12016269,AEK Larnaca,AEL,Cyprus Cup,2020-02-19 17:00:00
+17,16858630,AEK Larnaca,AEL,Club Friendlies,2020-08-14 16:00:00
+18,16475125,AEK Larnaca,AEL,1. Division,2020-09-26 17:30:00
+19,17576430,AEK Larnaca,AEL,Cyprus Cup,2020-11-25 15:00:00
+20,11984635,Herediano,Alajuelense,Primera Division,2019-12-05 02:00:00
+21,11986087,Herediano,Alajuelense,Primera Division,2019-12-15 22:30:00
+22,11997148,Herediano,Alajuelense,Primera Division,2020-03-09 01:00:00
+23,16904470,Herediano,Alajuelense,Primera Division,2020-08-30 02:00:00
+24,17687737,Herediano,Alajuelense,Primera Division,2020-12-17 02:00:00
+25,11985095,Diriangén,Real Estelí,Primera Division,2019-12-09 01:00:00
+26,12013139,Diriangén,Real Estelí,Primera Division,2020-03-15 01:00:00
+27,12056283,Diriangén,Real Estelí,Primera Division,2020-04-26 01:00:00
+28,17640159,Diriangén,Real Estelí,Primera Division,2020-11-09 01:00:00
+29,17680692,Diriangén,Real Estelí,Primera Division,2020-12-13 23:00:00
+30,11428311,Sol de América,Olimpia,Division 1,2019-12-14 21:00:00
+31,11990748,Sol de América,Olimpia,Division 1,2020-09-26 23:30:00
+32,17626419,Sol de América,Olimpia,Division 1,2020-11-09 00:30:00
+33,17708128,Sol de América,Olimpia,Division 1,2020-12-27 21:30:00
+34,17761405,Sol de América,Olimpia,Division 1,2021-03-06 23:30:00
+35,11987382,MOL Vidi,Újpest,Hungarian Cup,2020-02-19 16:30:00
+36,11888717,MOL Vidi,Újpest,OTP Bank Liga,2020-06-14 19:05:00
+37,16755544,MOL Vidi,Újpest,Club Friendlies,2020-08-08 08:00:00
+38,16521855,MOL Vidi,Újpest,OTP Bank Liga,2020-10-04 18:00:00
+39,16521987,MOL Vidi,Újpest,OTP Bank Liga,2021-04-10 15:00:00
+40,11952930,Teuta Durrës,Skënderbeu Korçë,Superliga,2019-12-08 15:30:00
+41,11953020,Teuta Durrës,Skënderbeu Korçë,Superliga,2020-07-06 18:45:00
+42,17014151,Teuta Durrës,Skënderbeu Korçë,Superliga,2020-11-04 15:45:00
+43,17014241,Teuta Durrës,Skënderbeu Korçë,Superliga,2021-02-12 15:00:00
+44,17988872,Teuta Durrës,Skënderbeu Korçë,Albanian Cup,2021-04-14 14:00:00
+45,11883009,Municipal,Guastatoya,Liga Nacional,2019-12-04 18:30:00
+46,11996123,Municipal,Guastatoya,Liga Nacional,2020-02-22 21:00:00
+47,16903966,Municipal,Guastatoya,Liga Nacional,2020-09-05 21:00:00
+48,17780188,Municipal,Guastatoya,Liga Nacional,2021-02-07 17:00:00
+49,17794473,Municipal,Guastatoya,Liga Nacional,2021-02-27 21:00:00
+50,11872509,Hapoel Ramat HaSharon,Hapoel Ramat Gan,Liga Leumit,2020-06-04 17:00:00
+51,14050777,Hapoel Ramat HaSharon,Hapoel Ramat Gan,Liga Leumit,2020-06-22 17:00:00
+52,16775996,Hapoel Ramat HaSharon,Hapoel Ramat Gan,Toto Cup Ligat Leumit,2020-08-10 17:00:00
+53,16899460,Hapoel Ramat HaSharon,Hapoel Ramat Gan,Liga Leumit,2020-12-07 17:00:00
+54,17997730,Hapoel Ramat HaSharon,Hapoel Ramat Gan,Liga Leumit,2021-04-16 13:00:00
+55,11890522,PAOK,Olympiakos Piraeus,Super League,2020-02-23 17:30:00
+56,12022592,PAOK,Olympiakos Piraeus,Greek Cup,2020-03-04 19:30:00
+57,12028263,PAOK,Olympiakos Piraeus,Super League,2020-06-07 16:30:00
+58,17695030,PAOK,Olympiakos Piraeus,Super League,2021-01-13 17:30:00
+59,17932825,PAOK,Olympiakos Piraeus,Super League,2021-04-18 16:30:00
+60,11998846,Olimpia,Motagua,Liga Nacional,2020-02-02 22:00:00
+61,17245167,Olimpia,Motagua,Liga Nacional,2020-11-01 22:00:00
+62,17646475,Olimpia,Motagua,Concacaf League,2020-12-03 03:15:00
+63,17721920,Olimpia,Motagua,Liga Nacional,2021-01-10 22:00:00
+64,17815100,Olimpia,Motagua,Liga Nacional,2021-04-25 01:00:00
+65,11990792,Paysandu,Remo,Paraense,2020-03-08 19:00:00
+66,16996969,Paysandu,Remo,Paraense,2020-09-02 23:00:00
+67,12026369,Paysandu,Remo,Serie C,2020-10-03 22:00:00
+68,17679330,Paysandu,Remo,Serie C,2021-01-10 21:00:00
+69,17872704,Paysandu,Remo,Paraense,2021-04-04 20:00:00
+70,11986136,Enosis,Doxa,Cyprus Cup,2020-01-08 15:00:00
+71,11892161,Enosis,Doxa,1. Division,2020-01-13 17:00:00
+72,16708193,Enosis,Doxa,Club Friendlies,2020-07-29 14:30:00
+73,16475153,Enosis,Doxa,1. Division,2020-10-30 16:00:00
+74,17952986,Enosis,Doxa,1. Division,2021-04-16 14:00:00
+75,16491173,Spartak Trnava,Trenčín,Fortuna Liga,2020-07-14 18:00:00
+76,16672287,Spartak Trnava,Trenčín,Fortuna Liga,2020-10-24 15:00:00
+77,17711249,Spartak Trnava,Trenčín,Tipsport Liga,2021-01-12 12:00:00
+78,17959259,Spartak Trnava,Trenčín,Slovakia Cup,2021-04-06 09:00:00
+79,17900281,Spartak Trnava,Trenčín,Fortuna Liga,2021-04-24 15:00:00
+80,11878853,Basel,Young Boys,Super League,2019-12-01 15:00:00
+81,11878923,Basel,Young Boys,Super League,2020-07-11 18:30:00
+82,16997640,Basel,Young Boys,Swiss Cup,2020-08-30 15:30:00
+83,17071941,Basel,Young Boys,Super League,2020-12-16 19:30:00
+84,17755684,Basel,Young Boys,Super League,2021-03-03 19:30:00
+85,11883016,Antigua GFC,Municipal,Liga Nacional,2019-12-08 17:00:00
+86,11991735,Antigua GFC,Municipal,Liga Nacional,2019-12-26 21:00:00
+87,11996120,Antigua GFC,Municipal,Liga Nacional,2020-02-16 17:30:00
+88,17756855,Antigua GFC,Municipal,Liga Nacional,2021-01-28 19:15:00
+89,17794532,Antigua GFC,Municipal,Liga Nacional,2021-04-18 17:30:00
+90,11874876,Hapoel Be'er Sheva,Maccabi Haifa,Ligat ha'Al,2019-12-09 18:15:00
+91,12025877,Hapoel Be'er Sheva,Maccabi Haifa,Ligat ha'Al,2020-06-20 17:30:00
+92,16911145,Hapoel Be'er Sheva,Maccabi Haifa,Toto Cup Ligat Al,2020-08-22 16:00:00
+93,16614274,Hapoel Be'er Sheva,Maccabi Haifa,Ligat ha'Al,2021-01-05 18:45:00
+94,17958174,Hapoel Be'er Sheva,Maccabi Haifa,Ligat ha'Al,2021-04-26 17:30:00
+95,11890489,AEK Athens,Olympiakos Piraeus,Super League,2020-01-26 17:30:00
+96,15972106,AEK Athens,Olympiakos Piraeus,Super League,2020-06-28 18:30:00
+97,15681614,AEK Athens,Olympiakos Piraeus,Greek Cup,2020-09-12 18:00:00
+98,17132588,AEK Athens,Olympiakos Piraeus,Super League,2020-12-16 17:30:00
+99,17932819,AEK Athens,Olympiakos Piraeus,Super League,2021-04-04 16:30:00
+100,11892158,Nea Salamis,Ethnikos Achna,1. Division,2020-01-05 17:00:00
+101,12026862,Nea Salamis,Ethnikos Achna,1. Division,2020-03-07 15:00:00
+102,16841687,Nea Salamis,Ethnikos Achna,Club Friendlies,2020-08-08 17:00:00
+103,16475147,Nea Salamis,Ethnikos Achna,1. Division,2020-11-02 16:00:00
+104,17880897,Nea Salamis,Ethnikos Achna,1. Division,2021-03-13 14:00:00
+105,11998300,Nordsjælland,AGF,Club Friendlies,2020-01-24 12:30:00
+106,14041961,Nordsjælland,AGF,Superliga,2020-07-22 16:00:00
+107,17055900,Nordsjælland,AGF,Club Friendlies,2020-09-07 14:00:00
+108,16774015,Nordsjælland,AGF,Superliga,2020-11-29 17:00:00
+109,17948766,Nordsjælland,AGF,Superliga,2021-04-04 16:05:00
+110,11890512,Aris,AEK Athens,Super League,2020-02-16 17:30:00
+111,12022591,Aris,AEK Athens,Greek Cup,2020-06-24 16:00:00
+112,15972111,Aris,AEK Athens,Super League,2020-07-05 16:15:00
+113,17477443,Aris,AEK Athens,Super League,2021-01-14 17:30:00
+114,17932820,Aris,AEK Athens,Super League,2021-04-11 12:00:00
+115,11876172,Salzburg,LASK Linz,Tipico Bundesliga,2020-02-14 18:00:00
+116,12019027,Salzburg,LASK Linz,Austrian Cup,2020-03-05 19:45:00
+117,12027417,Salzburg,LASK Linz,Tipico Bundesliga,2020-06-14 17:30:00
+118,16923671,Salzburg,LASK Linz,Tipico Bundesliga,2020-12-13 16:00:00
+119,17948805,Salzburg,LASK Linz,Tipico Bundesliga,2021-04-18 12:30:00
+120,11985094,Real Estelí,Diriangén,Primera Division,2019-12-06 01:00:00
+121,12056284,Real Estelí,Diriangén,Primera Division,2020-04-30 01:00:00
+122,16747939,Real Estelí,Diriangén,Primera Division,2020-09-06 01:00:00
+123,17680693,Real Estelí,Diriangén,Primera Division,2020-12-20 23:00:00
+124,17880866,Real Estelí,Diriangén,Primera Division,2021-04-29 01:00:00
+125,11999070,Gorica,Lokomotiva Zagreb,Club Friendlies,2020-01-11 13:00:00
+126,11868031,Gorica,Lokomotiva Zagreb,1. HNL,2020-03-09 17:00:00
+127,16864537,Gorica,Lokomotiva Zagreb,1. HNL,2020-11-28 16:05:00
+128,17443070,Gorica,Lokomotiva Zagreb,Croatia Cup,2020-12-07 16:00:00
+129,16864627,Gorica,Lokomotiva Zagreb,1. HNL,2021-04-24 17:05:00
+130,11997819,FAS,Once Municipal,Primera Division,2020-01-26 21:15:00
+131,17246439,FAS,Once Municipal,Primera Division,2020-11-15 21:00:00
+132,17663924,FAS,Once Municipal,Primera Division,2020-12-27 21:00:00
+133,17796430,FAS,Once Municipal,Primera Division,2021-03-14 21:15:00
+134,18026199,FAS,Once Municipal,Primera Division,2021-04-25 21:30:00
+135,11865515,Nordsjælland,Brøndby,Superliga,2020-03-08 17:00:00
+136,14041947,Nordsjælland,Brøndby,Superliga,2020-06-28 16:00:00
+137,16774037,Nordsjælland,Brøndby,Superliga,2021-02-04 19:00:00
+138,17945821,Nordsjælland,Brøndby,Club Friendlies,2021-03-25 12:00:00
+139,17948775,Nordsjælland,Brøndby,Superliga,2021-04-21 18:00:00
+140,12024164,Žalgiris,Trakai,A Lyga,2020-05-30 12:00:00
+141,12024647,Žalgiris,Trakai,A Lyga,2020-07-23 17:00:00
+142,17794569,Žalgiris,Trakai,Club Friendlies,2021-02-06 15:00:00
+143,17869058,Žalgiris,Trakai,Club Friendlies,2021-02-13 13:00:00
+144,17880649,Žalgiris,Trakai,A Lyga,2021-03-16 15:00:00
+145,11883003,Comunicaciones,Antigua GFC,Liga Nacional,2019-12-01 17:00:00
+146,11996111,Comunicaciones,Antigua GFC,Liga Nacional,2020-02-13 02:00:00
+147,16903950,Comunicaciones,Antigua GFC,Liga Nacional,2020-10-12 17:00:00
+148,17711990,Comunicaciones,Antigua GFC,Liga Nacional,2021-01-18 00:00:00
+149,17794502,Comunicaciones,Antigua GFC,Liga Nacional,2021-04-02 00:00:00
+150,11890478,Olympiakos Piraeus,Aris,Super League,2020-01-19 17:30:00
+151,12028266,Olympiakos Piraeus,Aris,Super League,2020-06-14 18:30:00
+152,17794317,Olympiakos Piraeus,Aris,Greek Cup,2021-02-10 19:30:00
+153,17696456,Olympiakos Piraeus,Aris,Super League,2021-02-21 17:30:00
+154,17926078,Olympiakos Piraeus,Aris,Super League,2021-03-21 15:15:00
+155,11980869,Libertad,Guaraní,Copa Paraguay,2019-12-04 22:00:00
+156,11990687,Libertad,Guaraní,Division 1,2020-08-01 22:30:00
+157,17680444,Libertad,Guaraní,Division 1,2020-12-11 23:45:00
+158,17705376,Libertad,Guaraní,Division 1,2020-12-24 00:00:00
+159,17761413,Libertad,Guaraní,Division 1,2021-03-28 23:00:00
+160,11997830,Isidro Metapán,Sonsonate,Primera Division,2020-02-02 01:15:00
+161,17246440,Isidro Metapán,Sonsonate,Primera Division,2020-11-15 01:15:00
+162,17663887,Isidro Metapán,Sonsonate,Primera Division,2020-12-20 01:15:00
+163,17796431,Isidro Metapán,Sonsonate,Primera Division,2021-03-14 01:15:00
+164,18026211,Isidro Metapán,Sonsonate,Primera Division,2021-04-25 01:15:00
+165,11997856,Águila,Jocoro,Primera Division,2020-02-26 21:15:00
+166,17246443,Águila,Jocoro,Primera Division,2020-10-17 21:30:00
+167,17663889,Águila,Jocoro,Primera Division,2020-12-19 21:00:00
+168,17758101,Águila,Jocoro,Primera Division,2021-01-24 21:30:00
+169,17796435,Águila,Jocoro,Primera Division,2021-02-17 21:30:00
+170,11872461,Hapoel Petah Tikva,Hapoel Nazareth Illit,Liga Leumit,2020-02-14 13:00:00
+171,14050805,Hapoel Petah Tikva,Hapoel Nazareth Illit,Liga Leumit,2020-06-21 16:45:00
+172,16899790,Hapoel Petah Tikva,Hapoel Nazareth Illit,Toto Cup Ligat Leumit,2020-08-20 17:00:00
+173,16899453,Hapoel Petah Tikva,Hapoel Nazareth Illit,Liga Leumit,2020-12-01 17:00:00
+174,17669633,Hapoel Petah Tikva,Hapoel Nazareth Illit,State Cup,2020-12-14 17:00:00
+175,11986859,CSKA Sofia,Botev Vratsa,Bulgarian Cup,2020-03-03 16:00:00
+176,13135711,CSKA Sofia,Botev Vratsa,Club Friendlies,2020-05-30 14:00:00
+177,16917062,CSKA Sofia,Botev Vratsa,Parva Liga,2020-12-13 10:30:00
+178,17768531,CSKA Sofia,Botev Vratsa,Club Friendlies,2021-02-02 13:00:00
+179,17893234,CSKA Sofia,Botev Vratsa,Bulgarian Cup,2021-03-18 15:00:00
+180,16306478,El Paso Locomotive,New Mexico United,USL Championship,2020-07-16 01:00:00
+181,11999627,El Paso Locomotive,New Mexico United,USL Championship,2020-07-25 01:30:00
+182,16306568,El Paso Locomotive,New Mexico United,USL Championship,2020-09-06 01:30:00
+183,11999182,El Paso Locomotive,New Mexico United,USL Championship,2020-09-27 01:30:00
+184,17457525,El Paso Locomotive,New Mexico United,USL Championship,2020-10-18 01:30:00
+185,11952935,Kukësi,Teuta Durrës,Superliga,2019-12-14 15:00:00
+186,16141417,Kukësi,Teuta Durrës,Albanian Cup,2020-07-02 18:45:00
+187,11953025,Kukësi,Teuta Durrës,Superliga,2020-07-11 18:45:00
+188,17014205,Kukësi,Teuta Durrës,Superliga,2020-12-30 15:45:00
+189,17014295,Kukësi,Teuta Durrës,Superliga,2021-04-28 14:00:00
+190,11872454,Hapoel Katamon,Hapoel Ramat HaSharon,Liga Leumit,2020-02-07 13:00:00
+191,14050781,Hapoel Katamon,Hapoel Ramat HaSharon,Liga Leumit,2020-06-25 17:00:00
+192,16735603,Hapoel Katamon,Hapoel Ramat HaSharon,Club Friendlies,2020-07-31 06:00:00
+193,16899565,Hapoel Katamon,Hapoel Ramat HaSharon,Liga Leumit,2021-03-12 13:00:00
+194,17997735,Hapoel Katamon,Hapoel Ramat HaSharon,Liga Leumit,2021-04-26 16:00:00
+195,11873940,Ružomberok,DAC,Fortuna Liga,2020-02-22 13:00:00
+196,13031846,Ružomberok,DAC,Slovakia Cup,2020-06-24 16:00:00
+197,12028997,Ružomberok,DAC,Fortuna Liga,2020-07-11 16:00:00
+198,16672325,Ružomberok,DAC,Fortuna Liga,2020-12-12 15:00:00
+199,17959256,Ružomberok,DAC,Slovakia Cup,2021-04-07 14:00:00
+200,11997848,Santa Tecla,Chalatenango,Primera Division,2020-02-15 23:00:00
+201,17246422,Santa Tecla,Chalatenango,Primera Division,2020-10-25 01:00:00
+202,17663920,Santa Tecla,Chalatenango,Primera Division,2020-12-24 01:00:00
+203,17796413,Santa Tecla,Chalatenango,Primera Division,2021-02-21 23:00:00
+204,17941019,Santa Tecla,Chalatenango,Primera Division,2021-04-04 01:00:00
+205,11985093,Walter Ferreti,Managua,Primera Division,2019-12-08 23:00:00
+206,12013143,Walter Ferreti,Managua,Primera Division,2020-03-19 01:00:00
+207,12056281,Walter Ferreti,Managua,Primera Division,2020-04-27 01:00:00
+208,17640158,Walter Ferreti,Managua,Primera Division,2020-11-09 02:00:00
+209,17758344,Walter Ferreti,Managua,Primera Division,2021-02-14 02:00:00
+210,11998069,SønderjyskE,Horsens,Club Friendlies,2020-01-15 12:00:00
+211,12028983,SønderjyskE,Horsens,Landspokal Cup,2020-06-10 16:00:00
+212,17747078,SønderjyskE,Horsens,Club Friendlies,2021-01-27 11:00:00
+213,16774078,SønderjyskE,Horsens,Superliga,2021-03-14 13:00:00
+214,17952888,SønderjyskE,Horsens,Superliga,2021-04-11 12:00:00
+215,11988881,APOEL,Apollon,Cyprus Cup,2020-01-29 14:30:00
+216,11892186,APOEL,Apollon,1. Division,2020-02-15 15:00:00
+217,16858629,APOEL,Apollon,Club Friendlies,2020-08-14 16:00:00
+218,16475149,APOEL,Apollon,1. Division,2020-10-31 16:30:00
+219,17633551,APOEL,Apollon,Cyprus Cup,2021-01-20 16:00:00
+220,11983304,Olimpia,Marathón,Liga Nacional,2019-12-08 22:00:00
+221,11998867,Olimpia,Marathón,Liga Nacional,2020-02-23 22:00:00
+222,17710089,Olimpia,Marathón,Liga Nacional,2020-12-28 00:00:00
+223,17749010,Olimpia,Marathón,Liga Nacional,2021-01-15 01:00:00
+224,17815124,Olimpia,Marathón,Liga Nacional,2021-04-28 01:00:00
+225,11890473,PAOK,AEK Athens,Super League,2020-01-12 17:30:00
+226,15972108,PAOK,AEK Athens,Super League,2020-07-01 18:00:00
+227,17696422,PAOK,AEK Athens,Super League,2021-01-24 17:30:00
+228,17926079,PAOK,AEK Athens,Super League,2021-03-21 17:30:00
+229,17922119,PAOK,AEK Athens,Greek Cup,2021-04-29 16:00:00
+230,11979263,Bnei Yehuda,Hapoel Hadera,State Cup,2019-12-19 18:00:00
+231,11874939,Bnei Yehuda,Hapoel Hadera,Ligat ha'Al,2020-02-05 17:00:00
+232,12025901,Bnei Yehuda,Hapoel Hadera,Ligat ha'Al,2020-06-06 17:00:00
+233,16614234,Bnei Yehuda,Hapoel Hadera,Ligat ha'Al,2020-12-12 15:20:00
+234,17958159,Bnei Yehuda,Hapoel Hadera,Ligat ha'Al,2021-04-25 17:00:00
+235,11876166,LASK Linz,Sturm Graz,Tipico Bundesliga,2019-12-15 16:00:00
+236,11979373,LASK Linz,Sturm Graz,Austrian Cup,2020-02-08 17:00:00
+237,12027423,LASK Linz,Sturm Graz,Tipico Bundesliga,2020-06-17 18:30:00
+238,16923708,LASK Linz,Sturm Graz,Tipico Bundesliga,2021-02-14 16:00:00
+239,17948815,LASK Linz,Sturm Graz,Tipico Bundesliga,2021-04-28 16:30:00
+240,11890502,Panathinaikos,PAOK,Super League,2020-02-02 17:30:00
+241,12011627,Panathinaikos,PAOK,Greek Cup,2020-02-12 18:00:00
+242,12028264,Panathinaikos,PAOK,Super League,2020-06-13 18:30:00
+243,17696477,Panathinaikos,PAOK,Super League,2021-03-14 17:00:00
+244,17932817,Panathinaikos,PAOK,Super League,2021-04-04 12:00:00
+245,11887112,Chindia Târgovişte,Hermannstadt,Liga 1,2019-12-15 16:00:00
+246,12023643,Chindia Târgovişte,Hermannstadt,Liga 1,2020-07-06 14:00:00
+247,16904668,Chindia Târgovişte,Hermannstadt,Liga 1,2020-09-18 15:00:00
+248,17654529,Chindia Târgovişte,Hermannstadt,Romania Cup,2020-11-27 16:00:00
+249,18014654,Chindia Târgovişte,Hermannstadt,Liga 1,2021-04-17 12:00:00
+250,11983386,Corinthians,Santos,Paulista A1,2020-02-02 14:00:00
+251,12024953,Corinthians,Santos,Serie A,2020-10-07 22:00:00
+252,11989132,Corinthians,Santos,Brasileiro Women,2020-10-14 22:30:00
+253,17222514,Corinthians,Santos,Paulista Women,2020-10-21 21:00:00
+254,17658065,Corinthians,Santos,Paulista Women,2020-11-27 22:00:00
+255,11979426,Gorica,Slaven Koprivnica,Croatia Cup,2019-12-04 18:00:00
+256,11867994,Gorica,Slaven Koprivnica,1. HNL,2019-12-07 14:00:00
+257,11868084,Gorica,Slaven Koprivnica,1. HNL,2020-07-24 19:05:00
+258,16864526,Gorica,Slaven Koprivnica,1. HNL,2020-12-02 16:00:00
+259,16864616,Gorica,Slaven Koprivnica,1. HNL,2021-04-16 16:05:00
+260,11952980,Teuta Durrës,Kukësi,Superliga,2020-02-29 16:00:00
+261,16141418,Teuta Durrës,Kukësi,Albanian Cup,2020-07-15 18:45:00
+262,17014160,Teuta Durrës,Kukësi,Superliga,2020-11-21 15:45:00
+263,17014250,Teuta Durrës,Kukësi,Superliga,2021-02-26 15:00:00
+264,17880115,Teuta Durrës,Kukësi,Albanian Cup,2021-03-17 15:00:00
+265,11987065,Struga,Rabotnicki,First League,2020-02-16 13:00:00
+266,17318107,Struga,Rabotnicki,Macedonian Cup,2020-10-21 12:30:00
+267,16715911,Struga,Rabotnicki,First League,2020-12-13 12:00:00
+268,17779020,Struga,Rabotnicki,Club Friendlies,2021-01-30 11:00:00
+269,17899934,Struga,Rabotnicki,First League,2021-04-14 11:00:00
+270,11867991,Rijeka,Istra 1961,1. HNL,2019-12-08 16:30:00
+271,12723097,Rijeka,Istra 1961,Club Friendlies,2020-05-24 17:00:00
+272,11868081,Rijeka,Istra 1961,1. HNL,2020-07-25 19:05:00
+273,16858349,Rijeka,Istra 1961,1. HNL,2020-08-29 15:55:00
+274,16864578,Rijeka,Istra 1961,1. HNL,2021-02-14 14:00:00
+275,11986864,Real Estelí,Managua,Primera Division,2019-12-22 01:00:00
+276,12013120,Real Estelí,Managua,Primera Division,2020-02-09 01:00:00
+277,12071264,Real Estelí,Managua,Primera Division,2020-05-03 01:00:00
+278,17656544,Real Estelí,Managua,Primera Division,2020-11-20 01:00:00
+279,17758353,Real Estelí,Managua,Primera Division,2021-03-01 01:00:00
